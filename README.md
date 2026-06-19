@@ -71,15 +71,15 @@ Linked supporting documentation to applied controls, including:
 
 | Analytics Dashboard | Frameworks |
 |---|---|
-| ![Analytics](./screenshots/analytics.png) | ![Frameworks](./screenshots/frameworks.png) |
+| ![Analytics](./analytics.png) | ![Frameworks](./frameworks.png) |
 
 | Risk Assessments | Evidences |
 |---|---|
-| ![Risk Assessments](./screenshots/risk-assessments.png) | ![Evidences](./screenshots/evidences.png) |
+| ![Risk Assessments](./risk-assessments.png) | ![Evidences](./evidences.png) |
 
 | Risk Scenarios |
 |---|
-| ![Risk Scenarios](./screenshots/risk-scenarios.png) |
+| ![Risk Scenarios](./risk-scenarios.png) |
 
 > 💡 Add the screenshots to a `/screenshots` folder in your repo and update the paths above.
 
